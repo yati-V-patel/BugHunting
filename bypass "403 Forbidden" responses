@@ -1,0 +1,6 @@
+git clone https://github.com/lobuhi/byp4xx.git
+cd byp4xx
+chmod u+x byp4xx.sh
+
+Example:
+./byp4xx.sh https://www.google.es/test
